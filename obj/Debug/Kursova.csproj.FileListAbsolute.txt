@@ -1,0 +1,23 @@
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.csproj.AssemblyReference.cache
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.csproj.SuggestedBindingRedirects.cache
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\MainWindow.g.cs
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\App.g.cs
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova_MarkupCompile.cache
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova_MarkupCompile.lref
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\AddElementWindow.g.cs
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\bin\Debug\Kursova.exe.config
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\bin\Debug\Kursova.exe
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\bin\Debug\Kursova.pdb
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\MainWindow.baml
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\AddElementWindow.baml
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.g.resources
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.exe
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.pdb
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\New Window\WindowForTasks.g.cs
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\New Window\WindowForTasks.baml
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\bin\Debug\Newtonsoft.Json.dll
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\bin\Debug\Newtonsoft.Json.xml
+D:\lpnu\3 sem\Kursova_PZ25\Kursova\obj\Debug\Kursova.csproj.CopyComplete
